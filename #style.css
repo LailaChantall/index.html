@@ -1,0 +1,20 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+p {
+  margin-block: 0.8rem;
+  font-size: 1.3rem;
+  font-family: "Roboto Mono", monospace;
+ font-weight: 128px;
+  font-style: normal;
+}
